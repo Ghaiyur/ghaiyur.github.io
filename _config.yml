@@ -48,3 +48,49 @@ author:
 # youtube           : your_channel_name
   quora             : Ghaiyur-Ahmad-1
   resume            : ghaiyur-resume.pdf
+  
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###                        
+disqus:        # Your website Shortname on disqus
+  shortname: https-ghaiyur-github-io  
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: 
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                  # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      comments: false 
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
