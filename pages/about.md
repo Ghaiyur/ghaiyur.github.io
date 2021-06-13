@@ -8,6 +8,7 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
+
 I currently work as a Data Scientist in TECH I.S. my work involves working on Machine learning , Data Sciences and Research and Development <br>
 
 Want to know more about me or hire me then download resume [here](assets\ghaiyur-resume.pdf) :smiley: <br>
