@@ -5,7 +5,8 @@ permalink: /courses/
 weight: 2
 ---
 
-### Coursera  <br>
+### Coursera <br>
+
 <ul>
 <li> AWS Fundamentals : Going Cloud-native [O](https://www.coursera.org/account/accomplishments/certificate/X4DDD8FFM46Q?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long) </li>
 <li> Bayesian Statistics: From Concept to Data Analysis [O](https://www.coursera.org/account/accomplishments/certificate/NG3ZL9GT4XLG) </li>
