@@ -1,20 +1,19 @@
 ### Site Settings ###
-title               : Ghaiyur Naqui Ahmad
-description         : >- 
-                      Python :snake: | Data Science 
-                      If you have a problem statement for me , I need to connect with you | I work in Healthcare , AI and everything else !
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Ghaiyur/ghaiyur.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : Ghaiyur/portfolYOU
-
+title: Ghaiyur Naqui Ahmad
+description: >-
+  Python :snake: | Data Science 
+  If you have a problem statement for me , I need to connect with you 
+  I work in Healthcare , AI and everything else !
+baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository: Ghaiyur/ghaiyur.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme: Ghaiyur/portfolYOU
 
 ### Plugins ###
 plugins:
   - jemoji
-  
-  
+
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude: # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
@@ -22,36 +21,34 @@ nav_exclude:                                            # The following paths ar
   - pages/fquotes.md
   - pages/status.md
   - pages/contact.md
-  
-  
+
   ### Author Info ###
 author:
-  name              : Ghaiyur Naqui Ahmad
-  image             : ./assets/ghaiyur.jpg
-# behance           : your_username
-# dribbble          : your_username
-  email             : ghaiyur@gmail.com 
-# facebook          : your_username
-  github            : Ghaiyur
-# gitlab            : your_username
-# instagram         : your_username
-  kaggle            : ghaiyur
-  linkedin          : ghaiyur
-  medium            : ghaiyur
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : realghaiyur
-# vimeo             : your_username
-# youtube           : your_channel_name
-  quora             : Ghaiyur-Ahmad-1
-  resume            : ghaiyur-resume.pdf
-  
+  name: Ghaiyur Naqui Ahmad
+  image: ./assets/ghaiyur.jpg
+  # behance           : your_username
+  # dribbble          : your_username
+  email: ghaiyur@gmail.com
+  # facebook          : your_username
+  github: Ghaiyur
+  # gitlab            : your_username
+  # instagram         : your_username
+  kaggle: ghaiyur
+  linkedin: ghaiyur
+  medium: ghaiyur
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # stackoverflow     : your_user_id
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  twitter: realghaiyur
+  # vimeo             : your_username
+  # youtube           : your_channel_name
+  quora: Ghaiyur-Ahmad-1
+  resume: ghaiyur-resume.pdf
+
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
@@ -59,16 +56,15 @@ collections:
     output: true
     permalink: /projects/:name
 
-### Disqus ###                        
-disqus:        # Your website Shortname on disqus
-  shortname: https-ghaiyur-github-io  
+### Disqus ###
+disqus: # Your website Shortname on disqus
+  shortname: https-ghaiyur-github-io
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: false # Set true to enable analytics
   google:
-    tracking_id: 
-
+    tracking_id:
 
 ### Defaults for collections ###
 defaults:
@@ -81,12 +77,12 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: true                                  # Set to true to enable disqus comments
+      comments: true # Set to true to enable disqus comments
   - scope:
       path: ""
       type: "skills"
     values:
-      comments: false 
+      comments: false
 
 ### Exclude from processing ###
 exclude:
