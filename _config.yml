@@ -11,3 +11,40 @@ remote_theme        : Ghaiyur/portfolYOU
 ### Plugins ###
 plugins:
   - jemoji
+  
+  
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/testblog.md
+  - pages/fquotes.md
+  - pages/status.md
+  - pages/contact.md
+  
+  
+  ### Author Info ###
+author:
+  name              : Ghaiyur Naqui Ahmad
+  image             : ./assets/ghaiyur.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : ghaiyur@gmail.com 
+# facebook          : your_username
+  github            : Ghaiyur
+# gitlab            : your_username
+# instagram         : your_username
+  kaggle            : ghaiyur
+  linkedin          : ghaiyur
+  medium            : ghaiyur
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : realghaiyur
+# vimeo             : your_username
+# youtube           : your_channel_name
+  quora             : Ghaiyur-Ahmad-1
+  resume            : ghaiyur-resume.pdf
