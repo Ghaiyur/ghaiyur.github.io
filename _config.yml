@@ -4,7 +4,7 @@ description         : >-
                       Python :snake: | Data Science 
                       If you have a problem statement for me , I need to connect with you | I work in Healthcare , AI and everything else !
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Ghaiyur/ghaiyurahmad.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : Ghaiyur/ghaiyur.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : Ghaiyur/portfolYOU
 
 
