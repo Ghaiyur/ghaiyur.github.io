@@ -21,5 +21,5 @@ Want to know more about me or hire me then download resume [here](https://github
 </div>
 
 # **Credits and Updates**
-Update: Site is under constant updation. Stay tuned for blogs!! <br>
+Update: Site is under constant updation. <br>
 Web Credits: [YoussefRaafatNasry - portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
