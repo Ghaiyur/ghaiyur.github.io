@@ -3,7 +3,7 @@ title: Federated learning and Continual learning
 tags: [AI, ML, Federated Learning, Continual Learning]
 style: fill
 color: secondary
-comments: true
+comments: false
 description:  Intro to Federated learning and Continual learning techniques - Advances in AI
 ---
 
