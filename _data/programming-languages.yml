@@ -1,0 +1,23 @@
+- name: Python
+  percentage: 80
+  color: success
+  
+- name: HTML
+  percentage: 70
+  color: info
+  
+- name: CSS
+  percentage: 70
+  color: info
+  
+- name: SQL
+  percentage: 60
+  color: info
+  
+- name: Javascript
+  percentage: 40
+  color: danger
+  
+- name: C#
+  percentage: 40
+  color: danger
