@@ -33,3 +33,4 @@ weight: 2
 - Responsive Web Design [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/responsive-web-design)
 - JavaScript Algorithms and Data Structures [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/javascript-algorithms-and-data-structures)
 - Data Visualization [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/data-visualization)
+- Machine Learning with Python [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/machine-learning-with-python-v7)
