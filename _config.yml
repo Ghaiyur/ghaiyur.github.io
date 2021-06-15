@@ -61,9 +61,9 @@ disqus: # Your website Shortname on disqus
 
 ### Analytics ###
 analytics:
-  enabled: false # Set true to enable analytics
+  enabled: true # Set true to enable analytics
   google:
-    tracking_id: xoxo
+    tracking_id: G-1GKJ62CG7B
 
 ### Defaults for collections ###
 defaults:
