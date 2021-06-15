@@ -1,4 +1,3 @@
-![Visits](https://github.com/Ghaiyur/ghaiyur.github.io)
 <div align="center">
     <h1>Personal Website - Ghaiyur</h1>
     <i>Jekyl theme which works with Github Pages based on PortfolYOU.</i>
