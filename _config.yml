@@ -63,7 +63,7 @@ disqus: # Your website Shortname on disqus
 analytics:
   enabled: true # Set true to enable analytics
   google:
-    tracking_id: G-1GKJ62CG7B
+    tracking_id: G-KSQ3W41S6B
 
 ### Defaults for collections ###
 defaults:
