@@ -20,3 +20,9 @@ weight: 2
 - What is Data Science? [O](https://www.coursera.org/account/accomplishments/certificate/TCV3KYKC3PVK)
 - Neural Networks and Deep Learning [O](https://www.coursera.org/account/accomplishments/certificate/6ZWGHF65EVQE)
   <br>
+  
+### Kaggle <br>
+
+- Python [O](https://www.kaggle.com/learn/certification/ghaiyur/python)
+- Introduction to Machine Learning [O](https://www.kaggle.com/learn/certification/ghaiyur/intro-to-machine-learning)
+- Intermediate Machine Learning [O](https://www.kaggle.com/learn/certification/ghaiyur/intermediate-machine-learning)
