@@ -26,3 +26,10 @@ weight: 2
 - Python [O](https://www.kaggle.com/learn/certification/ghaiyur/python)
 - Introduction to Machine Learning [O](https://www.kaggle.com/learn/certification/ghaiyur/intro-to-machine-learning)
 - Intermediate Machine Learning [O](https://www.kaggle.com/learn/certification/ghaiyur/intermediate-machine-learning)
+
+### freeCodeCamp <br>
+
+- Front End Libraries [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/front-end-libraries)
+- Responsive Web Design [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/responsive-web-design)
+- JavaScript Algorithms and Data Structures [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/javascript-algorithms-and-data-structures)
+- Data Visualization [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/data-visualization)
