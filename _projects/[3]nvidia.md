@@ -1,5 +1,5 @@
 ---
-name: Vision Autonomous Vehicle
+name: NV Autonomous Vehicle
 tools: [keras , computer vision , machine learning , opencv]
 image:
 description: Created a Image classifier using Keras for objects and vehicles found on road , for images captured by a test vehicle equipped with a Multi-Sensors
