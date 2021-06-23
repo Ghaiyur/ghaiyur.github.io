@@ -7,7 +7,7 @@ weight: 2
 
 ### Coursera <br>
 
-- AWS Fundamentals : Going Cloud-native [O](https://www.coursera.org/account/accomplishments/certificate/X4DDD8FFM46Q?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
+- <a href="https://www.coursera.org/account/accomplishments/certificate/X4DDD8FFM46Q?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long" target="_blank">AWS Fundamentals : Going Cloud-native</a>
 - Bayesian Statistics: From Concept to Data Analysis [O](https://www.coursera.org/account/accomplishments/certificate/NG3ZL9GT4XLG)
 - Continuous Delivery & DevOps [O](https://www.coursera.org/account/accomplishments/certificate/K25JUBJ4ZP3Y)
 - Programming Foundations with JavaScript, HTML and CSS [O](https://www.coursera.org/account/accomplishments/certificate/HR2UDP8BMSJ9)
