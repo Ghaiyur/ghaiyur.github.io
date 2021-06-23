@@ -8,10 +8,10 @@ weight: 2
 ### Coursera <br>
 
 - AWS Fundamentals : Going Cloud-native <a href="https://www.coursera.org/account/accomplishments/certificate/X4DDD8FFM46Q?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long" target="_blank">O</a>
-- Bayesian Statistics: From Concept to Data Analysis [O](https://www.coursera.org/account/accomplishments/certificate/NG3ZL9GT4XLG)
-- Continuous Delivery & DevOps [O](https://www.coursera.org/account/accomplishments/certificate/K25JUBJ4ZP3Y)
-- Programming Foundations with JavaScript, HTML and CSS [O](https://www.coursera.org/account/accomplishments/certificate/HR2UDP8BMSJ9)
-- Machine Learning with Python [O](https://www.coursera.org/account/accomplishments/certificate/MQK63KV9MQAZ)
+- Bayesian Statistics: From Concept to Data Analysis <a href="https://www.coursera.org/account/accomplishments/certificate/NG3ZL9GT4XLG" target="_blank">O</a>
+- Continuous Delivery & DevOps <a href="https://www.coursera.org/account/accomplishments/certificate/K25JUBJ4ZP3Y" target="_blank">O</a>
+- Programming Foundations with JavaScript, HTML and CSS <a href="https://www.coursera.org/account/accomplishments/certificate/HR2UDP8BMSJ9" target="_blank">O</a>
+- Machine Learning with Python <a href="https://www.coursera.org/account/accomplishments/certificate/MQK63KV9MQAZ" target="_blank">O</a>
 - Data Analysis with Python [O](https://www.credly.com/badges/4a7ad4a7-9408-4417-8631-577b37d9f606/linked_in_profile)
 - Data Science Methodology [O](https://www.credly.com/badges/2e917d3a-7b82-4a39-9e92-f335baa217c0/linked_i)
 - Data Science Orientation [O](https://www.credly.com/badges/96a7b2d6-bb07-407c-b9cc-33a7a823ef75/linked_in_profile)
