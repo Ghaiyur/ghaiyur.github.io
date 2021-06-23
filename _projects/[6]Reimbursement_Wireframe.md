@@ -1,5 +1,5 @@
 ---
-name: Employee Reimbursement App Designs
+name: Employee Reimbursement
 tools: [Product Management , Product Design , Wireframe , Payment App ]
 image: 
 description: Created product requirements documentation , development lifecycles , production timelines and testing stratergy for a Employee Reimbursement Feature.
