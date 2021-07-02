@@ -34,3 +34,17 @@ weight: 2
 - JavaScript Algorithms and Data Structures [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/javascript-algorithms-and-data-structures)
 - Data Visualization [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/data-visualization)
 - Machine Learning with Python [O](https://www.freecodecamp.org/certification/ghaiyur-naqui-ahmad/machine-learning-with-python-v7)
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/60de94a665b7290ac6390100/1f9in9b70';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
