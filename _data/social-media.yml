@@ -105,3 +105,8 @@ calendy:
   url   : https://calendly.com/
   icon  : fas fa-calendar-alt
   color : 1da1f2
+  
+tableau:
+  url   : https://public.tableau.com/profile/
+  icon  : fas fa-database
+  color : 1da1f2
