@@ -100,3 +100,8 @@ quora:
   url   : https://www.quora.com/profile/
   icon  : fab fa-quora
   color : ff0000
+  
+calendy:
+  url   : https://calendly.com/ghaiyur/30minutes
+  icon  : fab fa-calendar-week
+  color : ff0000
