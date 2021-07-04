@@ -103,5 +103,5 @@ quora:
   
 calendy:
   url   : https://calendly.com/
-  icon  : fab fa-calendar-week
-  color : ff0000
+  icon  : fas fa-calendar-alt
+  color : 1da1f2
