@@ -43,6 +43,7 @@ function startTime() {
     var today = new Date();
     var h = today.getHours();
     var m = today.getMinutes();
+    var s = today.getSeconds();
     var d = today.getDate();
     var w = today.getDay();
     var day = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
@@ -50,11 +51,11 @@ function startTime() {
     
     // Format for 12-hour clock instead of default 24-hour clock.
     // Remove these two lines for 24-hour clock.
-    var sep = getSep(h);  // use sep to indicate am/pm.
-    if (h > 12) {h -= 12};  // use 12-hour clock
-    if (h == 0) {h = 12};
+    //var sep = getSep(h);  // use sep to indicate am/pm.
+    //if (h > 12) {h -= 12};  // use 12-hour clock
+    //if (h == 0) {h = 12};
     
-    var theTime = h + sep + m
+    var theTime = h + sep + m + sep + s
     var theDate = day[w] + '&nbsp;' + d
     
     document.getElementById('text').innerHTML = theTime;
