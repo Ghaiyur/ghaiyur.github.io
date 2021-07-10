@@ -253,7 +253,7 @@ weight: 7
 		
 		document.querySelectorAll('input[name="select-theme"]').forEach(function(radio) {
 			radio.addEventListener('change', function() {
-				var themeName = this.value;
+				var themeName = "dark";
 				document.body.setAttribute('data-theme', themeName);
 			});
 		});
