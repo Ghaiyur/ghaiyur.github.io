@@ -53,7 +53,7 @@ function startTime() {
     // Remove these two lines for 24-hour clock.
     //var sep = getSep(h);  // use sep to indicate am/pm.
     //if (h > 12) {h -= 12};  // use 12-hour clock
-    //if (h == 0) {h = 12};
+    if (h == 0) {h = 12};
     
     var theTime = h + sep + m + sep + s
     var theDate = day[w] + '&nbsp;' + d
