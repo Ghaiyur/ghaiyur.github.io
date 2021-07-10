@@ -51,8 +51,8 @@ function startTime() {
     
     // Format for 12-hour clock instead of default 24-hour clock.
     // Remove these two lines for 24-hour clock.
-    //var sep = getSep(h);  // use sep to indicate am/pm.
-    //if (h > 12) {h -= 12};  // use 12-hour clock
+    var sep = getSep(h);  // use sep to indicate am/pm.
+    if (h > 12) {h -= 12};  // use 12-hour clock
     if (h == 0) {h = 12};
     
     var theTime = h + sep + m + sep + s
