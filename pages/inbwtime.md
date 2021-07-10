@@ -5,9 +5,7 @@ permalink: /inbwtime/
 weight: 7
 ---
 
-<html>
 <head>
-<title>(Type a title for your page here)</title>
 <script type="text/javascript"> 
 function display_c(){
 var refresh=1000; // Refresh rate in milli seconds
@@ -26,4 +24,3 @@ display_c();
 <span id='ct' ></span>
 
 </body>
-</html>
