@@ -9,7 +9,7 @@ weight: 6
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I currently work as a Senior Software Engineer at Wipro to solve problems and get the best out of data !<br>
+I currently work as a Senior Software Engineer at Wipro with high impact clients to create the most viable solutions.<br>
 
 Want to know more about me or hire me then download resume [here](https://github.com/Ghaiyur/ghaiyur.github.io/raw/master/assets/ghaiyur-resume-july-2021.pdf) :smiley: <br>
 
